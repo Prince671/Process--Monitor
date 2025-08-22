@@ -60,6 +60,4 @@ wheel==0.45.1
 whitenoise==6.9.0
 wsproto==1.2.0
 
-pywin32==308
-pypiwin32==223
-comtypes==1.4.10
+
